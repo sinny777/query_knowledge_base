@@ -29,6 +29,7 @@ frame.jpg
 model/*
 venv
 vector
+datasets
 **/.chroma
 *.db
 *.ipynb_checkpoints
